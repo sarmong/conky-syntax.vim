@@ -10,7 +10,9 @@ if exists("b:current_syntax")
 	finish
 endif
 
-syn region ConkyrcComment start=/\s*#/ end=/$/
+setlocal commentstring=--\ %s
+
+syn match ConkyrcComment '--.*$'
 
 syn keyword ConkyrcSetting
             \ alignment

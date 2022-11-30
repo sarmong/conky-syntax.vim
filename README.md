@@ -1,3 +1,5 @@
+# Conky-syntax.vim
+
 ## Description
 
 Syntax highlighting for conkyrc files used by the
@@ -9,7 +11,7 @@ These are the vim files from the Conky source, bundled to use with vim plugin ma
 
 Use a Vim plugin manager as:
 
-* [Pathogen](https://github.com/tpope/vim-pathogen)
-* [unbundle.vim](https://github.com/sunaku/vim-unbundle)
-* [Vundle](https://github.com/gmarik/vundle)
-* [neobundle](https://github.com/Shougo/neobundle.vim)
+- [Pathogen](https://github.com/tpope/vim-pathogen)
+- [unbundle.vim](https://github.com/sunaku/vim-unbundle)
+- [Vundle](https://github.com/gmarik/vundle)
+- [neobundle](https://github.com/Shougo/neobundle.vim)
